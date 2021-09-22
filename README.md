@@ -29,10 +29,10 @@ Veri modeli oluşturulmuştur ve local storage ile saklanmaktadır.
 
 # Projede kullanılan araçlar
 
-•	Vscode
-•	Reactjs
-•	Nodejs
-•	Html
-•	Css
-•	React-bootstrap(Yalnızca pagination componenti için)
+•	Vscode </br>
+•	Reactjs </br>
+•	Nodejs </br>
+•	Html </br>
+•	Css </br>
+•	React-bootstrap(Yalnızca pagination componenti için) </br>
 •	Docker(Containerization)
