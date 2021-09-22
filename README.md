@@ -1,5 +1,3 @@
-# Hepsiburada Front-End Developer Çalışması
-
 # Projenin ayağa kaldırılması için izlenecek adımlar
 
 npm install
