@@ -1,7 +1,8 @@
 # Projenin ayağa kaldırılması için izlenecek adımlar
 
 npm install </br>
-npm run start
+npm install react-bootstrap </br>
+npm run start 
 
 # Docker info
 
