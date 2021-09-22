@@ -1,6 +1,6 @@
 # Projenin ayağa kaldırılması için izlenecek adımlar
 
-npm install
+npm install </br>
 npm run start
 
 # Docker info
