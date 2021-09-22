@@ -5,6 +5,10 @@ npm run start
 
 # Docker info
 
+## docker build
+docker build -t react-docker:1.0.0-dev .
+
+## docker run
 docker run --rm -it --name react-test-case -p 8080:8080 react-docker:1.0.0-dev
 
 # Arama
