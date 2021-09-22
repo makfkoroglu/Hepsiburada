@@ -1,4 +1,4 @@
-## Hepsiburada Front-End Developer Çalışması
+# Hepsiburada Front-End Developer Çalışması
 
 # Projenin ayağa kaldırılması için izlenecek adımlar
 
